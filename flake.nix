@@ -48,20 +48,20 @@
                   {
                     publisher = "jnoortheen";
                     name = "nix-ide";
-                    version = "0.5.5";
-                    sha256 = "sha256-epdEMPAkSo0IXsd+ozicI8bjPPquDKIzB3ONRUYWwn8=";
+                    version = "0.5.9";
+                    sha256 = "sha256-hPOcp6Yksgfu1+In21/gJ3MthV8JUV5WaRpYHvo5GGk=";
                   }
                   {
                     publisher = "timonwong";
                     name = "shellcheck";
-                    version = "0.38.6";
-                    sha256 = "sha256-0H/iPteisIru6bXizf4NtdpbrI2WSsWW/AvS1BtEicY=";
+                    version = "0.39.5";
+                    sha256 = "sha256-8f9LGmNE8ilPYZmbJpmmAx9DkKJXbQzAia11rM3wTec=";
                   }
                   {
                     publisher = "mkhl";
                     name = "shfmt";
-                    version = "1.5.1";
-                    sha256 = "sha256-rk+ykkWHxgQyyOC8JyhyOinRPJHh9XxNRAVUzcF7TRI=";
+                    version = "1.5.2";
+                    sha256 = "sha256-Mff3ZpxnLp/cEB17T0KGZ4GWG8jN4VxrfR/wIEi2ouM=";
                   }
                 ];
               })

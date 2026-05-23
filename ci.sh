@@ -2,9 +2,6 @@
 
 set -euxo pipefail
 
-shopt -s globstar
-nixfmt **/*.nix
-
+nix fmt
 statix check
-
 deadnix
