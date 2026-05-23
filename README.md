@@ -1,12 +1,6 @@
-# Shell to work with Nix
+# devShell to work on Nix projects
 
 ## Quickstart
-
-```sh
-<TODO>
-```
-
-### Through a Flake
 
 ```sh
 nix develop github:duesee/nix-shell-nix
