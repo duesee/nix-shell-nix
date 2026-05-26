@@ -48,8 +48,8 @@
                   {
                     publisher = "jnoortheen";
                     name = "nix-ide";
-                    version = "0.5.9";
-                    sha256 = "sha256-hPOcp6Yksgfu1+In21/gJ3MthV8JUV5WaRpYHvo5GGk=";
+                    version = "0.5.7";
+                    sha256 = "sha256-6wIjuvMlA+mwg5gzctkfOAdaQLBy2K6YcV3kJxK3VOo=";
                   }
                   {
                     publisher = "timonwong";
