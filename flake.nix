@@ -29,7 +29,6 @@
               nixd
               nix-diff
               nixfmt
-              nixos-rebuild
               statix
 
               # Bash
@@ -39,12 +38,6 @@
               # Visual Studio Code (and plugins)
               (vscode-with-extensions.override {
                 vscodeExtensions = pkgs.vscode-utils.extensionsFromVscodeMarketplace [
-                  {
-                    publisher = "vscodevim";
-                    name = "vim";
-                    version = "1.32.4";
-                    sha256 = "sha256-+hyJZinWsa6U+s0fdrx2wUi6tOV3FNKf8O1qMMZEdkQ=";
-                  }
                   {
                     publisher = "jnoortheen";
                     name = "nix-ide";
