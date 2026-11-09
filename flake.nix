@@ -36,9 +36,9 @@
               shfmt
 
               # Visual Studio Code (and plugins)
-              (vscode-with-extensions.override {
-                vscodeExtensions = self.vscodeExtensions.${system};
-              })
+              # (vscode-with-extensions.override {
+              #   vscodeExtensions = self.vscodeExtensions.${system};
+              # })
             ];
           };
         };
